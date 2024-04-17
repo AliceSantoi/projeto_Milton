@@ -10,6 +10,7 @@
     display: inline-block;
     padding: 5px;
     text-shadow: 1px 1px 1px black;
+    border-radius: 10px;
 }
 .imagem#img01{
     background-image: url('../img/joaninha.jpg');
